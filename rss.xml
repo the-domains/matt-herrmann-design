@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Matt Herrmann Design]]></title>
         <description><![CDATA[Matt Herrmann Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matt-herrmann-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 00:40:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 00:41:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matt-herrmann-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e93fb2c8-968a-4d36-ba4c-2dd8f9498301.jpg">]]></description>
-            <link>undefined5012bc45-c145-47b7-aba3-f3a424bd8ba5/index.html</link>
+            <link>https://thegrid.ai/matt-herrmann-design/5012bc45-c145-47b7-aba3-f3a424bd8ba5/index.html</link>
             <guid isPermaLink="false">5012bc45-c145-47b7-aba3-f3a424bd8ba5</guid>
-            <pubDate>Wed, 11 Nov 2015 00:40:16 GMT</pubDate>
+            <pubDate>Wed, 11 Nov 2015 00:41:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
